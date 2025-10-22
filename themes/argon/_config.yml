@@ -9,7 +9,7 @@ font: sans-serif # 默认字体，可选: sans-serif 无衬线字体, serif 衬�
 enable_headroom: false # 滚动时是否自动折叠顶栏
 
 # 顶栏
-toolbar_icon: '' # 顶栏图标图片地址，留空则不显示
+toolbar_icon: 'https://blog.200583.xyz/wp-content/uploads/2025/10/%E9%80%8F%E6%98%8E%E5%BA%95Logo.png' # 顶栏图标图片地址，留空则不显示
 toolbar_icon_link: '' # 顶栏图标链接，点击时跳转
 toolbar_title: '' # 顶栏标题，留空则跟随博客标题
 toolbar_menu: # 顶栏菜单，支持二级菜单
@@ -19,7 +19,7 @@ toolbar_menu: # 顶栏菜单，支持二级菜单
 
 # Banner
 banner_title: '' # Banner 标题，留空则跟随博客标题
-enable_banner_title_typing_effect: false # 是否启用 Banner 打字效果
+enable_banner_title_typing_effect: true # 是否启用 Banner 打字效果
 theme.banner_typing_effect_interval: 100 # Banner 打字间隔时长，单位 ms/字
 banner_subtitle: '' # Banner 子标题，留空则不显示
 banner_background_url: '/assets/img/banner.jpg' # Banner 背景图，留空则不显示
